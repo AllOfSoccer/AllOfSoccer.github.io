@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f215dd6-f2ef-4f30-a1a7-155c986fb3ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/app_sample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_main.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ovnd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ryan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ryan1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ryan2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ryan_book.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ryan_book2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waug_mount.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-7.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +51,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -166,7 +152,7 @@
       <workItem from="1555122939481" duration="19000" />
       <workItem from="1557672195265" duration="1358000" />
       <workItem from="1582950032104" duration="5450000" />
-      <workItem from="1621001363349" duration="3235000" />
+      <workItem from="1621001363349" duration="3572000" />
     </task>
     <servers />
   </component>
